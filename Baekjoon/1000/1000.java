@@ -1,3 +1,9 @@
+/*******
+ 1000. A+B
+
+ * Java 기초 문제
+ ********/
+
 import java.util.*;
 import java.io.*;
 
